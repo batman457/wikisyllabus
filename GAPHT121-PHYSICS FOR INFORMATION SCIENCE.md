@@ -57,79 +57,17 @@ contributor: "@batman457"
 - Light Emitting Diode (LED) and applications.
 
 ---
+## References
+- H. K. Malik and A. K. Singh, *Engineering Physics*, McGraw Hill, 2nd Edition, 2017.  
+- Arthur Beiser, *Concepts of Modern Physics*, Tata McGraw Hill, 6th Edition, 2003.  
+- M. N. Avadhanulu, P. G. Kshirsagar, T. V. S. Arunmurthy, *A Textbook of Engineering Physics*, S. Chand, 11th Edition, 2018.  
+- Robert F. Pierret, *Semiconductor Devices Fundamentals*, Pearson Education, 1995.  
+- Robert F. Pierret, *Advanced Semiconductor Fundamentals*, Pearson Education, 2nd Edition, 2002.  
+- Ben G. Streetman and Sanjay K. Banerjee, *Solid State Electronic Devices*, Pearson Education, 6th Edition, 2010.  
+- S. O. Pillai, *Solid State Physics*, New Age International Publishers, 10th Edition, 2022.  
+- Charles Kittel, *Introduction to Solid State Physics*, Wiley India, 2019.  
+- Premlet B, *Advanced Engineering Physics*, Phasor Books, 10th Edition, 2017.  
+- I. Dominic and A. Nahari, *A Textbook of Engineering Physics*, Owl Books Publishers, Revised Edition, 2016.
 
-## Course Outcomes
-| CO No. | Description                                                                 | Bloom’s Level |
-|--------|-----------------------------------------------------------------------------|----------------|
-| CO1    | Explain electrical conductivity and superconductivity.                      | K2             |
-| CO2    | Explain quantum mechanical behavior of matter at atomic/subatomic level.   | K2             |
-| CO3    | Apply fundamentals of semiconductor physics in engineering.                 | K3             |
-| CO4    | Describe behavior of semiconductor materials in devices.                    | K2             |
-| CO5    | Apply basic knowledge in physics to conduct experiments.                    | K3             |
 
----
 
-## Course Assessment Method
-
-### Continuous Internal Evaluation (CIE): 40 Marks
-- Attendance: 5
-- Continuous Assessment: 10
-- Internal Exam 1 (Written): 10
-- Internal Exam 2 (Written): 10
-- Internal Exam 3 (Lab): 5
-
-### End Semester Examination (ESE): 60 Marks
-- **Part A (24 marks)**: 2 questions per module, each 3 marks (8x3).
-- **Part B (36 marks)**: 1 out of 2 long questions per module, each 9 marks (4x9).
-
----
-
-## Laboratory Assessment
-
-### Continuous Assessment (10 Marks)
-- Pre-Lab Work: 2
-- Experiment Execution: 2
-- Report & Record Keeping: 3
-- Viva Voce: 3
-
-### Lab Exam (5 Marks)
-- Procedure & Execution: 2
-- Result Accuracy: 2
-- Viva Voce: 1
-
-### Minimum Required Experiments
-1. Diode characteristics  
-2. Zener diode VI characteristics  
-3. Tunnel diode VI characteristics  
-4. Half-wave rectifier  
-5. Full-wave rectifier  
-6. Hall effect in semiconductors  
-7. Bandgap energy determination  
-
----
-
-## Textbooks
-| Title                                  | Author(s)                               | Publisher       | Edition/Year       |
-|----------------------------------------|-----------------------------------------|------------------|---------------------|
-| Engineering Physics                    | H K Malik, A K Singh                    | McGraw Hill      | 2nd Ed., 2017       |
-| Concepts of Modern Physics             | Arthur Beiser                          | Tata McGraw Hill | 6th Ed., 2003       |
-| A Textbook of Engineering Physics      | MN Avadhanulu, P G Kshirsagar, TVS Arunmurthy | S. Chand     | 11th Ed., 2018      |
-
-## Reference Books
-| Title                                   | Author(s)                               | Publisher           | Edition/Year    |
-|----------------------------------------|-----------------------------------------|----------------------|-----------------|
-| Semiconductor Devices Fundamentals     | Robert F. Pierret                        | Pearson Education     | 1995            |
-| Advanced Semiconductor Fundamentals    | Robert F. Pierret                        | Pearson Education     | 2nd Ed., 2002   |
-| Solid State Electronic Devices         | Ben G. Streetman, Sanjay K. Banerjee     | Pearson Education     | 6th Ed., 2010   |
-| Solid State Physics                    | S.O. Pillai                              | New Age Intl. Publ.   | 10th Ed., 2022  |
-| Introduction to Solid State Physics    | Charles Kittel                           | Wiley India           | 2019            |
-| Advanced Engineering Physics           | Premlet B                                | Phasor Books          | 10th Ed., 2017  |
-| A Textbook of Engineering Physics      | I. Dominic, A. Nahari                    | Owl Books Publishers  | Rev. Ed., 2016  |
-
----
-
-## Video Links
-- Module 1: [NPTEL Course](https://nptel.ac.in/courses/115103108)  
-- Module 2: [NPTEL Course 1](https://nptel.ac.in/courses/115101107), [Course 2](https://nptel.ac.in/courses/115102023)  
-- Module 3: [NPTEL Course](https://nptel.ac.in/courses/108106181)  
-- Module 4: [NPTEL Course](https://nptel.ac.in/courses/108108112)
