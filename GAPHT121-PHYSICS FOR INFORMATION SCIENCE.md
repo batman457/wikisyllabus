@@ -7,7 +7,7 @@ semester: "1/2"
 course_code: "GAPHT121"
 course_title: "Physics for Information Science"
 language: "English"
-contributor: "@chatgpt"
+contributor: "@batman457"
 ---
 
 # GAPHT121: Physics for Information Science
